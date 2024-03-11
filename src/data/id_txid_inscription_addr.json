@@ -1,0 +1,1102 @@
+[
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022288",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "6d025f6a117bd8e171c3a5ad0249a0c25afe474f7e4503ea153cf3482d2f1007"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022289",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "670431acebbc38ed05457b021034188e2e1aed19fc50fa2bbcf76cceb87f3347"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022290",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "96a6c70eff3d160663691e320c33a044d449816acf049dfdbaff89ca68065508"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022291",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "ef7bc63290f3a60a9bfe6a3340b6a6e7859a0c493a7bdcc80c612f9cc2d66708"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022292",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "85457d21fbfbd4ebad4650dc400782025cf298327b4daf29585d06c693b1af0b"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022293",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "8c3f580677a07d7cb769327347be29d743808d8671b205bfe1097d75ebfabf0f"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022294",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "ed15a98c137763a5e8b54bd760ce9a909a7df9334607312e433bf16ae7323b12"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022295",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "3c1c04af1ea2429faeeca37a696f46601e059f72ae8a124f76a02b3cc609d816"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022296",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "0f917a82b6e6a67ace2a89965720e1721984545f82088497f44b374e6fde7117"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022297",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "02f9dd1680eba08b31c24e83bf67bf5bded2117f66c20a53db95ebce311f9717"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022298",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "abdf844f0599dfe84b74262f7a7f8b0dc0ade79baf2bc9afa5d28caa0963d718"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022299",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "496a296948c3fc6c82544404f79d39ca7dff661ec4d0f0d85418ecafa103f119"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022300",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "ac0e2f3b2a8a91d184ec43f57d2f027e375887e4dcd25ae1dc0958b595bb991d"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022301",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "9994ef5f08be74aa1083a28b9dc7b027ecfdbee63720d749745448f544c6be1e"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022302",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "69458e126c6cc401e468c17f9610af9eb0308d542cb066bccb38138458e5cc1e"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022303",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "dce7d35f929225f03c554b6bf22ab41098e8f8d929f6ef8a5f5762123fcc051f"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022304",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "7f25679a5d33b8dc7d40ba0f7aedabf60cef8d35626ca9da7851551f4e409620"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022305",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "995d206701e3e9e0f198f41608614763a1fa133593d6fee66545713c4637c823"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022306",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "96a690644d0a33528bfb9a11efdf7ad561732925b0ab295408c7084efaa68f26"
+  },
+  {
+    "address": "bc1p43a3jj69t0yj7p2wxervmqa4pzlcs6dnup3rznspvprrc6slkxvqux64rx",
+    "id": "6022307",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "AMZN"
+    },
+    "txid": "31815a6df77e8c21d866e0969e526b0538ffd90a3b2cfc15bd40a98708541227"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022308",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "1e53d091076fd7921773da8861672b8e35f65e889f4d3486fb171861eacdcc27"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022309",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "f486758ea51e5f98c10e7f9d8346ba8d4c1595d420ae7cb9eec2b77100edc228"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022310",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "f58c2b1c4b7f4f449acf8cb98360d876b96a0c7c1c57a8f6c09196cbdaa36529"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022311",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "e9cbb4d7db54cd6a96949230e5e637478e6c813c11bf7e91052cdd81f6e40b2a"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022312",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "1d6223fc95e187920f36d965f650deb4407ca35c5097c1dea1f516a7ea38482d"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022313",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "da9ec0f1b7edc0b713d062279c761fd0c54d21c2c640340e55fba8d5c6d6fb31"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022314",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "26dd0b8af85a49f157003be7d8eb7d3a8bf1c7ae6c7c6094065569ac406bfc31"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022315",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "4b7485050ca1839ce5fa241c7d77e2f23d83349c002ed73862d9056877803634"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022316",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "d70da41104175ca32bc316185ea3f7a4381711f60d8a66438137eee00673f734"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022317",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "eea68864b6eb1ac2ce87e84c80decf0aafce0500a58ad3c3591c1c2ccbf6d835"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022318",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "22be3b414af9c571bd1af50dd51ffa630707024e113f1cbdefc1ea5d2c4a8a38"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022319",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "9fec86325db6c256d983f1fbc767496cad05b4d82c09630156c3427d2e32dc38"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022320",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "a63073b151b827b4fbfda622f379326bd2a3f6cab5293a0f8b126542f90c4139"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022321",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "2dda006af9668acea09c7ea8c75eb678d19f8ba47cfabc3bf39c02cb8f1be439"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022322",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "0a31af6714e616d51abd326ddd85abaec81764d2d88149dbe482db3a8ced4e3b"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022323",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "e3406aa861a2645a0ae95d3eb4a5b696cfead5c8baf977a9d6ffe3c87ed07041"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022324",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "4146c505542449b183e1223784a60781080aa091b6c0caae564554108d5bb942"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022325",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "7aeaf2cfaa8efcd44433690310e5c8a05dbe315e69ee34a3b64da8e31308bb43"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022326",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "f73303206f720a29f4f852d69eca555648b0cf6f2ec20153a793edb5bd50ad44"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022327",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "107a86c8e2315eab454af26dd6d7b12e7c6f3560ff8c6818f8de40336f8f8f45"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022328",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "17ce5eae09ecd74cdb6c98cd6501b6d9b64d5efb4582ceaa4145672589e40346"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022329",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "0193ccbc894d3a1cf0346f66975510d271a4d32815f61a6cf47cb1289ec9c346"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022330",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "8426414d2acf4b0dd31c6e96f466da5592383197b5c4dedbca1e45b09cd41447"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022331",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "221e9fafa04229dba705fa1754eeba1ed66538e5da4c435d5e2a5c0a96e04149"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022332",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "93535039da2ffe725b269838ef363246e03e00b4e6d15d36291859fa67f67c4a"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022333",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "3d5c68b00a0380ea69a7c018e322a2b777afd7b13538ae45609728ba8da0084f"
+  },
+  {
+    "address": "bc1pxhpf8k7240ftna6rcwfuexpljnexsuzneusez6uhfx379nfsucvq0r5qx8",
+    "id": "6022334",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "8b7ecb405d5e02a46e01d38bc7ce7b8f613fec42fbfe01276677a9f1be797e4f"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022335",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "e0025e10fc9872325403fa8f0cabe5eb98e698fe08d6a65ac9a4dc154789ae4f"
+  },
+  {
+    "address": "bc1p2ethgzanunrfmal9xyf5jpxx0qy8swe9vyhnlrsufq0w9gl9g5zqpuhwky",
+    "id": "6022336",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "a8867a1669cc4891fb864ccec9097b6b83de07c5fc2beeb9d8ca2c9626d5b04f"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022337",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "53b8285dab476daf0e82d3847614623e3f262996c3799b070c1119e1e55cd14f"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022338",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "acf66d538cbda049c829c327c6c55174cf0db972abb2245d051964e328927b50"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022339",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "deef0b8f3ae7e329f56a8283cf0b161de09fcb42d1c7b324f37abd6ffe14aa50"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022340",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "b2873503b7bde75b0891969cd5b67694f06beccef6c4209159fba9f2d05a9b52"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022341",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "5afc2d7fe87b2b3ae88fd58f4421267c28ec67ec4006baf79355c14e98726c54"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022342",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "9d6ac42d54750ae60e6a679c93587ac5f05be66161169790613a78d888bd9356"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022343",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "58387b1fdba01cfeb93233fefb40f423f3d5e02ff81001665f81d3ada3395258"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022344",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "34c1da379c67ae2311e0b28a4714241906b405d1fcfcfc4f979b62807638a158"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022345",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "5485e0ced21596a691f8a8ec931224ae903a87d32d44195b679659baf164a659"
+  },
+  {
+    "address": "bc1pw7alq7jywp3c3p2uqfgrj0djscvwvemh659m68jre4dxzfp9mgdqmed0ju",
+    "id": "6022346",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "72d89d0cf04257cf1beced9cbd7396b6c5c1bf5546638ff864887f2b62125e5a"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022347",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "1bac71df7b6bf6198297bf7e851ac23ac98ea68b35297ddec11a81e54345c05a"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022348",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "9c1714e1a043555919e4d1e034ec93e4bc0eefd464918b32d21a119211b4105e"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022349",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "33037dd75c5d62ab291fab8a756598e5b6646992c253b8d97c27b150cf5a495f"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022350",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "9b51e875268d45dac2b3775a025efa56b7c9e1ba08acf1acbfba61620b7e9064"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022351",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "3e173b35be3b145ad1fe2a9fe6ec99d95bf495400bbca5de63ae64617e3f156a"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022352",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "8f9f91d81233eb5b56b56df54a8453cb3c561e729ce1733b669473745dfcb86d"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022353",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "2915930326ad16ef9bd65873288fbf7dcffb786810f1c8be8da4066e9171606f"
+  },
+  {
+    "address": "bc1pyeka46n638agmvsvcdxfz0h9lg0ln730pnua8rp55q79ejd58c8qm984j5",
+    "id": "6022354",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "dogs"
+    },
+    "txid": "b9f4abfed9af4b066c799088ad34b7b7fe721743079e68b6f81e171883820571"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022355",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "1cf7ab122a60280c169d0f7a03ea12494cb3e94a498a7a3ae7297ef7bb32c571"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022356",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "a56dc2c6a7a3fc7d5e30f59f105871e2c95f700d1ff62ff57513f716364c4b72"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022357",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "282ff5f81cd44e597d4dfdd5e3b892f0124c27d3aaf87c5745c7c0bd34d26076"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022358",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "ed40d45ef2d0566ee4b11378c814261cb6d34bbc3087b330ccb7d824c026d476"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022359",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "9dcf8a41a5598fe57542006f67818ef8fc1f1654e321ebae521e1e9379e3fd76"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022360",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "22b0069df617d03a6050f543b11d5b82a63331295777fc036b0f347a1fdb2977"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022361",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "604cfcb5a889649d585251e049abea6c58cf041bd28e5152681d97c0ddd34977"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022362",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "666ee0f3eb2732ee32fa47994b6abaab404028f907f0fe77f227406d9de66877"
+  },
+  {
+    "address": "bc1phlhmcug27f6tp70jqt8h5cjecvtpw946y0pz4t4wn3yhyzf5gecs3znvsf",
+    "id": "6022363",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "51a1cc0b5377e731b93ff879fe9bad4d962e9d7796ef8448acf970538fe1bb77"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022364",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "10056121da6897e1d3abf6586ca12f927c9595851bda58242edc8f67878f8379"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022365",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "fe89a858e981ec49d29798ff594f14e0ef54a30ab4b865cff6e0d77dd0ae717b"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022366",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "691801e47e53f0caa62de35b7f50a61707e705b6204d452a58c976699596bf7b"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022367",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "3bd3461370fda1c0956c206cafd6c596d26eee3d0d8e6daf1cc2a72f4c0b8e7d"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022368",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "2b12b461403e35e7409916679a843c04a6a8f110ed858988b24a42269c4c867e"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022369",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "dc0fd0febf4f0b7221eb69dd7162fc8354229c72e1cf6dfe2076ca69ad90b981"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022370",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "98dabe0d78776d16bcd855e0bb1b2eccaed27ad88e21d2c7e3933dc3a9589f82"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022371",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "11db7ea50689e0c9b375c879de015edf1ba5761d98e47f71344e423db4b44a83"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022372",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "271f2d15150ea642bcb2b8bca78aead896c5689eff5982a59398dff0e4c5d185"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022373",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "44a056105e181a9b71f69851342eb6db8bdf75f1a4e3a850a1ade46f8832d685"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022374",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "218d4873f0786f55e5b62df9fe9bafbbf523ba9c7ea6c9726fafb30901573787"
+  },
+  {
+    "address": "bc1pxhpf8k7240ftna6rcwfuexpljnexsuzneusez6uhfx379nfsucvq0r5qx8",
+    "id": "6022375",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "74294bf46043c5f0622bb85253afbbc2d3d1c196245603f3d8ff78b46edf4b8a"
+  },
+  {
+    "address": "bc1p0qf9c0xvyyhxq0tzmx4xmdg5ez7x5dtk6zp9cd8t0manvf40a6fs286qme",
+    "id": "6022376",
+    "inscription_body": {
+      "amt": "10000",
+      "op": "transfer",
+      "p": "brc-20",
+      "tick": "corn"
+    },
+    "txid": "6e11d698d161f047bddaa8d788c3c6e1c3dd70cfb7f0760f98d12d956664578a"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022377",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "69c6749bb994ef9fe84eca51da2d120094c297f059d4d3d8c16caa3123b5ac8c"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022378",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "c6a30155ef2a3a8afb274bf68aab3eb8da332ebdcc93404a92d11cc36f42b48c"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022379",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "f27fa6e2d13ddb9463eaceef3aa377d74578f0d3ebff1e00d3a2be5b1054078d"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022380",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "b8bd0232b8ad99ffb655c5a5baf67d56dce9de79f722a2a01202babd4bf63c8d"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022381",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "315608b11e42a6c64c5b8a95ca872cfa54b65eb28769dcc3f774f5f0071a5f8e"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022382",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "46854db3c8c30b0bdb4ce30c18c49fb370eadac8cb4a80f8b73fbcec263ac98e"
+  },
+  {
+    "address": "bc1pfgvpe5fznhcl9ssypkcvuy3ulwtwnt8kjnmljjyttynkqqywr9hqu6m0av",
+    "id": "6022383",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "22011052f0606d42ad780781053c9c4953205146272b4961b149ef5d1136eb8f"
+  },
+  {
+    "address": "bc1pu32thu8jfh9y8axvjjx4shmhx04gx95j384f7y6es0psndxg7rmqqkwmva",
+    "id": "6022384",
+    "inscription_body": {
+      "amt": "1",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "trvn"
+    },
+    "txid": "091040afaf4ed99d39d2077971d0c2cfe25b7241e70d63363d435df808650f90"
+  },
+  {
+    "address": "bc1qmvjlr92hv38wnjhy2djcn3rc4nn8kz8kqmrvk9",
+    "id": "6022385",
+    "inscription_body": {
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "34fb8ae47775612b736596b7b60884ab5ce0dbd40fe73ce6a79589951a691a94"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022386",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "d1344a66e8821e11fa5c527fdbc5a2ed3bc26ca169f043a0eecb7bf41f95a694"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022387",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "8a9fb235ded0ce61fb350d6eee9f7c51f81a53cc9720bcab2f637063b0ae2796"
+  }
+]
