@@ -1,0 +1,29 @@
+      "amt": "100000000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "sats"
+    },
+    "txid": "34fb8ae47775612b736596b7b60884ab5ce0dbd40fe73ce6a79589951a691a94"
+  },
+  {
+    "address": "bc1p3awr778pzp4tcxasmfpd3lrrk2yehswgp7qnu9044zcwta4xwkxqsdl7qz",
+    "id": "6022386",
+    "inscription_body": {
+      "amt": "500",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "SBTC"
+    },
+    "txid": "d1344a66e8821e11fa5c527fdbc5a2ed3bc26ca169f043a0eecb7bf41f95a694"
+  },
+  {
+    "address": "bc1q5mu95ajefvwc9mzh2nqnmn43qq75taregpcduf",
+    "id": "6022387",
+    "inscription_body": {
+      "amt": "1000",
+      "op": "mint",
+      "p": "brc-20",
+      "tick": "x100"
+    },
+    "txid": "8a9fb235ded0ce61fb350d6eee9f7c51f81a53cc9720bcab2f637063b0ae2796"
+  }
